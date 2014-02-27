@@ -1,3 +1,3 @@
-##Kraków MongoDB User Group website
+###Kraków MongoDB User Group website http://kmug.pl
 
-http://kmug.pl
+
